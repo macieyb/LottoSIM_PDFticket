@@ -1,0 +1,17 @@
+{
+    "name": "root/flights",
+    "description": "flights_project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maciej Babiarz",
+            "email": "maciej.babiarz@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "kwn/number-to-words": "^1.3",
+        "mpdf/mpdf": "^6.1"
+    }
+}
